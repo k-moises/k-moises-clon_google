@@ -1,4 +1,9 @@
 
+/*
+AUTOR: KAROL MOISÉS GUTIÉRREZ RÍOS 
+PROFESSIONAL EN CODING
+*/
+
 body{
     margin: 0;
     font-family: Google Sans Roboto,RobotoDraft,Helvetica,Arial,sans-serif;
@@ -128,7 +133,7 @@ body{
     height: 30px;
     border: 1px solid #eee;
     margin-bottom: 20px;
-    background-image: url('icono1.JPG');
+    background-image: url('images/icono1.JPG');
     background-repeat: no-repeat;
     background-position: 10px center;
     background-size: 20px;
